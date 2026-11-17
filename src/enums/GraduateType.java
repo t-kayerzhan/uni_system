@@ -1,0 +1,2 @@
+package enums;
+public enum GraduateType { MASTER, PHD }

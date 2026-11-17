@@ -1,0 +1,18 @@
+# Compiled Java files
+*.class
+
+# Eclipse workspace files
+.metadata/
+src/.metadata/
+
+# macOS files
+.DS_Store
+
+# Build output
+/bin/
+
+# Duplicate/incomplete project folder
+/unisys/
+
+# Local serialized application data
+/data1/
